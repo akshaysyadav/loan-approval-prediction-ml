@@ -165,41 +165,6 @@ Evaluation
 
 ---
 
-# 📊 Exploratory Data Analysis
-
-## Loan Approval Distribution
-
-![Loan Distribution](images/loan_distribution.png)
-
----
-
-## Applicant Income Distribution
-
-![Applicant Income](images/applicant_income_histogram.png)
-
----
-
-## Coapplicant Income Distribution
-
-![Coapplicant Income](images/coapplicant_income_histogram.png)
-
----
-
-## Applicant Income vs Loan Approval
-
-![Box Plot](images/boxplot_income.png)
-
----
-
-## Credit Score Distribution
-
-![Credit Score](images/credit_score_distribution.png)
-
----
-
-## Correlation Heatmap
-
-![Correlation Heatmap](images/correlation_heatmap.png)
 
 ---
 
